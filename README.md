@@ -134,3 +134,8 @@ The data was cleaned, modeled, and visualized using **Power BI**.
 
 ---
 
+## 📸 Dashboard Preview
+
+![Banking Analytics Dashboard](https://github.com/aasritkrishna123/Risk-Analysis-in-Banking-Sector/blob/main/photo-collage.png.png)
+
+---
